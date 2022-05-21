@@ -1,4 +1,4 @@
-module github.com/celo-org/celo-bls-go
+module github.com/tessellatedgeometry/celo-bls-go
 
 go 1.12
 
